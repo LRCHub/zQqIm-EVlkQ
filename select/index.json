@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "コウフク貯金",
+  "base_artist": "MIMI",
+  "createdAt": "2026-01-07T08:09:09.245928Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コウフク貯金 (feat. 初音ミク)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_コウフク貯金_(feat._初音ミク)_MIMI.txt"
+    }
+  ]
+}
